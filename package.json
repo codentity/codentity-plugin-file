@@ -1,0 +1,16 @@
+{
+  "name": "codentity-plugin-file",
+  "version": "0.1.0",
+  "description": "Codentity plugin for finding items by file paths",
+  "main": "lib/codentity-plugin-file.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {},
+  "author": "Jack Stevens <jack@applyr.com>",
+  "license": "ISC",
+  "dependencies": {
+    "codentity-plugin": "github:codentity/codentity-plugin",
+    "minimatch": "^3.0.0"
+  }
+}
